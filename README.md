@@ -16,3 +16,4 @@ FEATURES:
 * Snake grows longer each time it eats Food
 * Game ends when the hits itself-selfcollision
 
+<img width="1694" height="883" alt="snake" src="https://github.com/user-attachments/assets/8f7b6201-12f4-40e5-9f4d-41de2c356b57" />
